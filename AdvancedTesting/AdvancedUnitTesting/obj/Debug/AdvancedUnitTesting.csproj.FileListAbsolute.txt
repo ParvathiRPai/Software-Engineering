@@ -1,0 +1,7 @@
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\bin\Debug\AdvancedUnitTesting.exe.config
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\bin\Debug\AdvancedUnitTesting.exe
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\bin\Debug\AdvancedUnitTesting.pdb
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\obj\Debug\AdvancedUnitTesting.csprojAssemblyReference.cache
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\obj\Debug\AdvancedUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\obj\Debug\AdvancedUnitTesting.exe
+C:\Users\v-papai\Downloads\LeapStudy\Unit_Testing\AdvancedUnitTesting\AdvancedUnitTesting\obj\Debug\AdvancedUnitTesting.pdb
