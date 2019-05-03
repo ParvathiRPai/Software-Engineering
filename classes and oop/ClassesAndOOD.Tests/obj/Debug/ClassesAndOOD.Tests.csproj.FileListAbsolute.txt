@@ -1,0 +1,16 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\ClassesAndOOD.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\ClassesAndOOD.Tests.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\ClassesAndOOD.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\ClassesAndOOD.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\ClassesAndOOD.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\obj\Debug\ClassesAndOOD.Tests.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\obj\Debug\ClassesAndOOD.Tests.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\obj\Debug\ClassesAndOOD.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD.Tests\obj\Debug\ClassesAndOOD.Tests.pdb

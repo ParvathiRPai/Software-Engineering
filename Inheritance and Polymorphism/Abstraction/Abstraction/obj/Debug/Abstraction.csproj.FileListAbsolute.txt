@@ -1,0 +1,6 @@
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe.config
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.exe
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\bin\Debug\Abstraction.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.exe
+c:\users\advolker\documents\visual studio 2017\Projects\Abstraction\Abstraction\obj\Debug\Abstraction.pdb

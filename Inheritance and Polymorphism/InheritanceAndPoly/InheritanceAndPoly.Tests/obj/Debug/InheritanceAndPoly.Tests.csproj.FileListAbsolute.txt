@@ -1,0 +1,16 @@
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\InheritanceAndPoly.Tests.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\InheritanceAndPoly.Tests.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\InheritanceAndPoly.exe
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\InheritanceAndPoly.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\InheritanceAndPoly.exe.config
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\obj\Debug\InheritanceAndPoly.Tests.csprojResolveAssemblyReference.cache
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\obj\Debug\InheritanceAndPoly.Tests.csproj.CoreCompileInputs.cache
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\obj\Debug\InheritanceAndPoly.Tests.dll
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly.Tests\obj\Debug\InheritanceAndPoly.Tests.pdb

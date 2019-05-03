@@ -1,0 +1,14 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\DataProvider.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\DataProvider.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\DataProvider.dll.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb

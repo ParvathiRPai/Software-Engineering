@@ -1,0 +1,7 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\bin\Debug\Memory.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\Memory\Memory\obj\Debug\Memory.csprojResolveAssemblyReference.cache

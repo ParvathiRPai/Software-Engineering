@@ -1,0 +1,7 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\bin\Debug\DataStructures.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DataStructures\DataStructures\obj\Debug\DataStructures.pdb

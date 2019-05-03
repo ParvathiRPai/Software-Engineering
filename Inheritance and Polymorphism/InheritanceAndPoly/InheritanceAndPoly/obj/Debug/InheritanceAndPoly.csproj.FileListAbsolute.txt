@@ -1,0 +1,7 @@
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\bin\Debug\InheritanceAndPoly.exe.config
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\bin\Debug\InheritanceAndPoly.exe
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\bin\Debug\InheritanceAndPoly.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\obj\Debug\InheritanceAndPoly.csproj.CoreCompileInputs.cache
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\obj\Debug\InheritanceAndPoly.exe
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\obj\Debug\InheritanceAndPoly.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\InheritanceAndPoly\InheritanceAndPoly\obj\Debug\InheritanceAndPoly.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\bin\Debug\BasicUnitTesting.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting\obj\Debug\BasicUnitTesting.pdb

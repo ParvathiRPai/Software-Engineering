@@ -1,0 +1,16 @@
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Linq.Tests.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Linq.Tests.pdb
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Linq.exe
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Linq.pdb
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Linq.exe.config
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\obj\Debug\Linq.Tests.csprojResolveAssemblyReference.cache
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\obj\Debug\Linq.Tests.csproj.CoreCompileInputs.cache
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\obj\Debug\Linq.Tests.dll
+c:\Users\advolker\documents\visual studio 2017\Projects\Linq\Linq.Tests\obj\Debug\Linq.Tests.pdb

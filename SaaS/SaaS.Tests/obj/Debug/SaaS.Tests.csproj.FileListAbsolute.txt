@@ -1,0 +1,47 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\SaaS.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\SaaS.Tests.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Castle.Core.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Moq.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\SaaS.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\SaaS.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\SaaS.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Castle.Core.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Moq.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\Moq.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\EntityFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\SaaS\SaaS.Tests\bin\Debug\EntityFramework.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\SaaS.Tests.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\SaaS.Tests.pdb
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Castle.Core.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Moq.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\SaaS.exe
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\EntityFramework.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\SaaS.pdb
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\SaaS.exe.config
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Castle.Core.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Moq.pdb
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\Moq.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\bin\Debug\EntityFramework.xml
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.csprojAssemblyReference.cache
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.csproj.CoreCompileInputs.cache
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.csproj.CopyComplete
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.dll
+C:\Users\v-papai\Downloads\LeapStudy\OneDrive_1_8-20-2018\SaaS\SaaS\SaaS.Tests\obj\Debug\SaaS.Tests.pdb

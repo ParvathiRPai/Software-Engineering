@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SaaSModelStoreContainer" CdmEntityContainer="SaaSEntities">
+    <EntitySetMapping Name="FunctionDurations">
+      <EntityTypeMapping TypeName="SaaSModel.FunctionDuration">
+        <MappingFragment StoreEntitySet="FunctionDuration">
+          <ScalarProperty Name="FunctionDurationId" ColumnName="FunctionDurationId" />
+          <ScalarProperty Name="FunctionName" ColumnName="FunctionName" />
+          <ScalarProperty Name="StartTime" ColumnName="StartTime" />
+          <ScalarProperty Name="DurationInMs" ColumnName="DurationInMs" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

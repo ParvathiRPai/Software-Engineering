@@ -1,0 +1,17 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\DesignPatterns.Test.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\DesignPatterns.Test.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\DesignPatterns.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\DesignPatterns.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\DesignPatterns.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\obj\Debug\DesignPatterns.Test.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\obj\Debug\DesignPatterns.Test.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\obj\Debug\DesignPatterns.Test.csproj.CopyComplete
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\obj\Debug\DesignPatterns.Test.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\DesignPatterns\DesignPatterns.Test\obj\Debug\DesignPatterns.Test.pdb

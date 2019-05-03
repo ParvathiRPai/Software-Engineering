@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SaaSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="FunctionDuration">
+    <Key>
+      <PropertyRef Name="FunctionDurationId" />
+    </Key>
+    <Property Name="FunctionDurationId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FunctionName" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="StartTime" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="DurationInMs" Type="Int64" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="SaaSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="FunctionDurations" EntityType="Self.FunctionDuration" />
+  </EntityContainer>
+</Schema>

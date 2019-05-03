@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaS", "SaaS\SaaS.csproj", "{DDCBFF03-AE7E-47AE-ADAC-FA76801009CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaaS.Tests", "SaaS.Tests\SaaS.Tests.csproj", "{EEA93530-BD61-4FD9-9689-C2DC4A34DDBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCBFF03-AE7E-47AE-ADAC-FA76801009CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCBFF03-AE7E-47AE-ADAC-FA76801009CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCBFF03-AE7E-47AE-ADAC-FA76801009CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCBFF03-AE7E-47AE-ADAC-FA76801009CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA93530-BD61-4FD9-9689-C2DC4A34DDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA93530-BD61-4FD9-9689-C2DC4A34DDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA93530-BD61-4FD9-9689-C2DC4A34DDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA93530-BD61-4FD9-9689-C2DC4A34DDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADD4F232-E53D-4266-ACB8-A5A307614D55}
+	EndGlobalSection
+EndGlobal

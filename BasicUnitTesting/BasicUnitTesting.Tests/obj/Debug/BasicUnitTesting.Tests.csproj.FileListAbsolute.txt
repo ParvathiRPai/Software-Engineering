@@ -1,0 +1,16 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\BasicUnitTesting.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\BasicUnitTesting.Tests.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\BasicUnitTesting.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\BasicUnitTesting.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\BasicUnitTesting.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\obj\Debug\BasicUnitTesting.Tests.csprojResolveAssemblyReference.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\obj\Debug\BasicUnitTesting.Tests.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\obj\Debug\BasicUnitTesting.Tests.dll
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\BasicUnitTesting\BasicUnitTesting.Tests\obj\Debug\BasicUnitTesting.Tests.pdb

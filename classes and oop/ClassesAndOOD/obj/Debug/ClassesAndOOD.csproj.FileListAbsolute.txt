@@ -1,0 +1,7 @@
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\bin\Debug\ClassesAndOOD.exe.config
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\bin\Debug\ClassesAndOOD.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\bin\Debug\ClassesAndOOD.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\obj\Debug\ClassesAndOOD.csproj.CoreCompileInputs.cache
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\obj\Debug\ClassesAndOOD.exe
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\obj\Debug\ClassesAndOOD.pdb
+C:\Users\advolker\Documents\Visual Studio 2017\Projects\ClassesAndOOD\ClassesAndOOD\obj\Debug\ClassesAndOOD.csprojResolveAssemblyReference.cache

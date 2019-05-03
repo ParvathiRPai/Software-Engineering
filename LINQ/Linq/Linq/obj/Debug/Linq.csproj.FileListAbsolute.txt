@@ -1,0 +1,6 @@
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\bin\Debug\Linq.exe.config
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\bin\Debug\Linq.exe
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\bin\Debug\Linq.pdb
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\obj\Debug\Linq.csproj.CoreCompileInputs.cache
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\obj\Debug\Linq.exe
+c:\users\advolker\documents\visual studio 2017\Projects\Linq\Linq\obj\Debug\Linq.pdb
